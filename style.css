@@ -1,0 +1,27 @@
+div{
+    background-color: turquoise;
+    padding: 100px;
+    margin: 12px 10px 12px 15px;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+}
+
+#rounded-all{
+    border-radius: 10px;
+    border: 10px solid brown;
+}
+
+#rounded-two{
+    border: 10px solid rgb(19, 108, 224);
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#customized-border{
+border-top: 5px solid violet;
+border-bottom: 5px solid indigo;
+border-left: 5px solid green;
+border-right: 5px solid yellow;
+box-shadow: 0 5px 5px cyan;
+}
